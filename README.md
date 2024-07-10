@@ -37,7 +37,7 @@ Este bot é útil para fornecer informações detalhadas sobre um grupo no Teleg
    ```
 
 4. **Adicionando o Bot ao Grupo:**
-   - Adicione o bot ao grupo no Telegram.
+   - Adicione o bot como Administrador no grupo no Telegram.
    - Assim que o bot for adicionado, ele enviará automaticamente uma mensagem no grupo com as informações detalhadas, formatadas para fácil cópia.
 
 ## NÃO SABE?
